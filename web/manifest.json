@@ -1,6 +1,6 @@
 {
-    "name": "linen_management_system_mobile",
-    "short_name": "linen_management_system_mobile",
+    "name": "mobile_lms",
+    "short_name": "mobile_lms",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

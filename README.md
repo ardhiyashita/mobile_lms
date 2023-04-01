@@ -1,4 +1,4 @@
-# linen_management_system_mobile
+# mobile_lms
 
 A new Flutter project.
 

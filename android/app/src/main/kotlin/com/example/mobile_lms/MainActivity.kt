@@ -1,4 +1,4 @@
-package com.example.linen_management_system_mobile
+package com.example.mobile_lms
 
 import io.flutter.embedding.android.FlutterActivity
 
